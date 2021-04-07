@@ -4,7 +4,6 @@
 #Software engineering student at ![PUC MINAS](https://pucminas.br)
 #Software developer intern at ![Basis](https://www.basis.com.br)
 
-![](mp4.gif)
 ![](https://komarev.com/ghpvc/?username=pablo-padua&style=plastic&label=STALKERS:)
 <!--
 **pablo-padua/pablo-padua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
