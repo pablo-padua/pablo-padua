@@ -16,7 +16,7 @@
 
 
 ## :iphone: Some of my social medias :octocat:
-<p> <style="padding:20px";/>
+<p>
   <a href="https://open.spotify.com/user/wmtfcooperm"> <img src="https://github.com/pablo-padua/pablo-padua/blob/master/spotify.png" alt="spotify"/></a>
   <a href="https://instagram.com/_pablopadua"> <img src="https://github.com/pablo-padua/pablo-padua/blob/master/instagram.png" alt="instagram"/></a>
   <a href="https://steamcommunity.com/id/paduafromwmtf"><img src="https://github.com/pablo-padua/pablo-padua/blob/master/steam.png" alt="steam"/></a>
@@ -24,7 +24,6 @@
   <a href="https://www.linkedin.com/in/pablopadua/"> <img src="https://github.com/pablo-padua/pablo-padua/blob/master/linkedin.png" alt="linkedin"/></a>
   <a href="https://t.me/PaduaRR"><img src="https://github.com/pablo-padua/pablo-padua/blob/master/telegram.png" alt="telegram"/></a>
   <a href="mailto:pablopaduav@gmail.com"><img src="https://github.com/pablo-padua/pablo-padua/blob/master/gmail.png" alt="email"/></a>
-  
 </p>
 
 ##
