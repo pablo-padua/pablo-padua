@@ -29,7 +29,10 @@
 ##
 
 ![](https://github.com/pablo-padua/pablo-padua/blob/master/semCondicoes.gif)
-<div align="center">
+
+##
+
+<div>
    <p>
     <img src="https://komarev.com/ghpvc/?username=pablo-padua&style=plastic&label=STALKERS:" alt="visitor badge" size="5"/>
   </p>
