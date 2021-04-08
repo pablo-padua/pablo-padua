@@ -29,10 +29,15 @@
 ##
 
 ![](https://github.com/pablo-padua/pablo-padua/blob/master/semCondicoes.gif)
+<div align="center">
+   <p>
+    <img src="https://komarev.com/ghpvc/?username=pablo-padua&style=plastic&label=STALKERS:" alt="visitor badge" size="5"/>
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/ie.jpg" alt="internetExplorer" width="128"/>  
+  </p>
+</div>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=pablo-padua&style=plastic&label=STALKERS:" alt="visitor badge">
-</p>
   
 <!--
 **pablo-padua/pablo-padua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
