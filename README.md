@@ -1,5 +1,5 @@
 ## Hello, {{visitor_username}} 👋
-### Welcome to my :shipit: GitHub :octocat: Profile!
+### Welcome to my :octocat: GitHub :octocat: Profile!
 
 ***:books:Software engineering student at [Puc Minas](https://pucminas.br)***<br>
 ***:computer:Software developer intern at [Basis](https://www.basis.com.br)***
