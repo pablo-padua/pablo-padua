@@ -1,8 +1,8 @@
 ## Hello, {{visitor_username}} 👋
 ### Welcome to my :octocat: GitHub :octocat: Profile!
 
-***:books:Software engineering student at [Puc Minas](https://pucminas.br)***<br>
-***:computer:Software developer intern at [Basis](https://www.basis.com.br)***
+***:books:Software Engineering student at [Puc Minas](https://pucminas.br)***<br>
+***:computer:Software Developer intern at [Basis](https://www.basis.com.br)***
 
 
 <p>
