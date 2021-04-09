@@ -6,7 +6,7 @@
 
 
 <p>
-  <img src="https://github.com/pablo-padua/pablo-padua/blob/master/exportclass.gif">
+  <img src="https://github.com/pablo-padua/pablo-padua/blob/master/user_padua.gif">
 </p>
 
 
