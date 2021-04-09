@@ -37,7 +37,7 @@
     <img src="https://komarev.com/ghpvc/?username=pablo-padua&style=plastic&label=STALKERS:" alt="visitor badge" size="5"/>
   </p>
   <p>
-    <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/ie.jpg" alt="internetExplorer" width="128"/>  
+    <a href="http://www.dont.click/"><img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/ie.jpg" alt="internetExplorer" width="128"/></a>  
   </p>
 </div>
 
