@@ -12,7 +12,10 @@
 
 ## :bar_chart:Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-padua&show_icons=true&theme=solarized-light&hide=contribs,prs)
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-padua&show_icons=true&theme=solarized-light&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-padua&exclude_repo=NeuronioPerceptron&layout=compact)](https://github.com/pablo-padua/github-readme-stats)
+
 
 
 ## :iphone: Some of my social medias :octocat:
