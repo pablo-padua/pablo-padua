@@ -31,7 +31,10 @@
 
 ##
 
-![](https://github.com/pablo-padua/pablo-padua/blob/master/semCondicoes.gif)
+<div>
+  <img src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/life_balance.gif" alt="life_balance"  width="230"/>
+  <img src="https://github.com/pablo-padua/pablo-padua/blob/master/semCondicoes.gif" alt="semCondicoesGif" width="256")/>
+</div>
 
 ##
 
