@@ -16,7 +16,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-padua&exclude_repo=NeuronioPerceptron&layout=compact)](https://github.com/pablo-padua/github-readme-stats)
 
-
+## Some of my interesting projects:
+- [eDominations Game Bot](https://github.com/pablo-padua/eDom-Automated-Game-Bot)
+- [Spotify Music Info](https://github.com/pablo-padua/SpotifyMusicFile)
+- [Todos application](https://github.com/pablo-padua/JavaAngularProject)
 
 ## :iphone: Some of my social medias :octocat:
 <p>
