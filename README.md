@@ -57,7 +57,8 @@
   </p>
   
   <p>
-    <a href="http://www.dont.click/"><img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/ie.jpg" alt="internetExplorer" width="128"/></a>  
+    <a href="http://www.dont.click/"><img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/ie.jpg" alt="internetExplorer" width="128"/></a> 
+    <br>(dont click this though)
   </p>
 </div>
 
