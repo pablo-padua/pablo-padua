@@ -2,7 +2,7 @@
 ### Welcome to my :octocat: GitHub :octocat: Profile!
 
 ***:books:Software Engineering student at [Puc Minas](https://pucminas.br)***<br>
-***:computer:Software Developer intern at [Basis](https://www.basis.com.br)***
+***:computer:Software Developer at [Basis](https://www.basis.com.br)***
 
 
 <p>
