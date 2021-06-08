@@ -11,20 +11,20 @@
 </p>
 
 
-## :memo:Some of my projects:
+## :memo: Some of my projects:
 - [eDominations Game Bot](https://github.com/pablo-padua/eDom-Automated-Game-Bot)
 - [Spotify Music Info](https://github.com/pablo-padua/SpotifyMusicFile)
 - [Todos application](https://github.com/pablo-padua/JavaAngularProject)
 
 
-## :bar_chart:Statistics
+## :bar_chart: Statistics
 
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-padua&show_icons=true&theme=solarized-light&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-padua&exclude_repo=NeuronioPerceptron&layout=compact)](https://github.com/pablo-padua/github-readme-stats)
 
 
-## :iphone: Some of my social medias :octocat:
+## :iphone: Reach me on:
 <p>
   <a href="https://open.spotify.com/user/wmtfcooperm"> <img src="https://github.com/pablo-padua/pablo-padua/blob/master/spotify.png" alt="spotify"/></a>
   <a href="https://instagram.com/_pablopadua"> <img src="https://github.com/pablo-padua/pablo-padua/blob/master/instagram.png" alt="instagram"/></a>
