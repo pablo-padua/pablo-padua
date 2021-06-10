@@ -15,6 +15,7 @@
 - [eDominations Game Bot](https://github.com/pablo-padua/eDom-Automated-Game-Bot)
 - [Spotify Music Info](https://github.com/pablo-padua/SpotifyMusicFile)
 - [Todos application](https://github.com/pablo-padua/JavaAngularProject)
+- [Address CRUD](https://github.com/pablo-padua/Address-Entity-CRUD)
 
 
 ## :bar_chart: Statistics
