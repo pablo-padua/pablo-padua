@@ -16,6 +16,7 @@
 - [Spotify Music Info](https://github.com/pablo-padua/SpotifyMusicFile)
 - [Todos application](https://github.com/pablo-padua/JavaAngularProject)
 - [Address CRUD](https://github.com/pablo-padua/Address-Entity-CRUD)
+- [User Transactions API](https://github.com/pablo-padua/UserTransactionsAPI)
 
 
 ## :bar_chart: Statistics
