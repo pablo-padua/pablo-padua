@@ -40,6 +40,10 @@
 ##
 
 <div>
+  <img src="https://camo.githubusercontent.com/6b24ca7563a732f4b02e4d4db85216e1308ae8e9d33e9eca447d5dd2cfc1b5ca/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f6170693f6267436f6c6f723d2532333231323532392674657874436f6c6f723d2532336666646464322671436f6c6f723d2532336639343134342661436f6c6f723d25323339306265366426626f72646572436f6c6f723d25323366396337346626636f6465436f6c6f723d253233663963373466"
+</div>
+
+<div>
   <img src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/life_balance.gif" alt="life_balance"  width="230"/>
   <img src="https://github.com/pablo-padua/pablo-padua/blob/master/semCondicoes.gif" alt="semCondicoesGif" width="256")/>
 </div>
