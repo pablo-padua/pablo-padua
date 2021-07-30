@@ -13,9 +13,10 @@
 
 
 ## :memo: Some of my projects:
+- [School Application](https://github.com/pablo-padua/SchoolApp)
 - [eDominations Game Bot](https://github.com/pablo-padua/eDom-Automated-Game-Bot)
 - [Spotify Music Info](https://github.com/pablo-padua/SpotifyMusicFile)
-- [Todos application](https://github.com/pablo-padua/JavaAngularProject)
+- [TODOs application](https://github.com/pablo-padua/JavaAngularProject)
 - [Address CRUD](https://github.com/pablo-padua/Address-Entity-CRUD)
 - [User Transactions API](https://github.com/pablo-padua/UserTransactionsAPI)
 
