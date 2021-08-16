@@ -3,7 +3,7 @@
 ### Welcome to my :octocat: GitHub :octocat: Profile!
 
 ***:books: Software Engineering alumnus at [Puc Minas](https://pucminas.br)***<br>
-***:books: Future Computer Science student at [Thompson Rivers University](https://tru.ca/)***<br>
+***:books: Computer Science student at [Thompson Rivers University](https://tru.ca/)***<br>
 ***:computer: Software Developer at [CRM Services](https://crmservices.com.br/)***
 
 
