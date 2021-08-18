@@ -23,7 +23,7 @@
 
 ## :bar_chart: Statistics
 
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-padua&show_icons=true&theme=solarized-light&hide=contribs,prs)
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-padua&show_icons=true&theme=solarized-light)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-padua&exclude_repo=NeuronioPerceptron&layout=compact)](https://github.com/pablo-padua/github-readme-stats)
 
