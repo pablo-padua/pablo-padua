@@ -2,10 +2,9 @@
 ##  <div align=center> Hello, {{visitor_username}} 👋 </div>
 ### Welcome to my :octocat: GitHub :octocat: Profile!
 
-***:books: Software Engineering alumnus at [Puc Minas](https://pucminas.br)***<br>
-<!-- ***:books: Computer Science student at [Thompson Rivers University](https://tru.ca/)***<br> -->
+***:books: Software Engineering student at [Puc Minas](https://pucminas.br)***<br>
 ***:computer: Software Developer at [CRM Services](https://crmservices.com.br/)***
-
+<!-- ***:books: Computer Science student at [Thompson Rivers University](https://tru.ca/)***<br> -->
 
 <p>
   <img src="https://github.com/pablo-padua/pablo-padua/blob/master/user_padua.gif">
