@@ -13,7 +13,7 @@
 
 ## :memo: Some of my projects:
 - [School Application](https://github.com/pablo-padua/SchoolApp)
-- [eDominations Game Bot](https://github.com/pablo-padua/eDom-Automated-Game-Bot)
+- [RR Game Bot](https://github.com/pablo-padua/RR-Game-Bot-Auto-Payment)
 - [Spotify Music Info](https://github.com/pablo-padua/SpotifyMusicFile)
 - [TODOs application](https://github.com/pablo-padua/JavaAngularProject)
 - [Address CRUD](https://github.com/pablo-padua/Address-Entity-CRUD)
