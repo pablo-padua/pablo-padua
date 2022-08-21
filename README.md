@@ -2,7 +2,7 @@
 ##  <div align=center> ``Hello, ${visitor_username}`` 👋 </div>
 ### Welcome to my :octocat: GitHub :octocat: Profile!
 
-***:books: Software Engineering student at [Puc Minas](https://pucminas.br)***<br>
+<!-- ***:books: Software Engineering student at [Puc Minas](https://pucminas.br)***<br>-->
 ***:computer: Software Developer at [CRM Services](https://crmservices.com.br/)***
 <!-- ***:books: Computer Science student at [Thompson Rivers University](https://tru.ca/)***<br> -->
 
