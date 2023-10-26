@@ -19,8 +19,9 @@
 - [Address CRUD](https://github.com/pablo-padua/Address-Entity-CRUD)
 - [User Transactions API](https://github.com/pablo-padua/UserTransactionsAPI)
 
-## Websites I have created:
+## Applications/Websites I have created:
 - [Original Niners](https://originalninersmc.com.br)
+- [IdeiaCity](https://ideiacity.com.br)
 
 ## :bar_chart: Statistics
 
@@ -32,7 +33,7 @@
 ## :iphone: Reach me on:
 <p>
   <a href="https://open.spotify.com/user/wmtfcooperm"> <img src="https://github.com/pablo-padua/pablo-padua/blob/master/spotify.png" alt="spotify"/></a>
-  <a href="https://instagram.com/_pablopadua"> <img src="https://github.com/pablo-padua/pablo-padua/blob/master/instagram.png" alt="instagram"/></a>
+  <a href="https://instagram.com/pabl0padua"> <img src="https://github.com/pablo-padua/pablo-padua/blob/master/instagram.png" alt="instagram"/></a>
   <a href="https://steamcommunity.com/id/paduafromwmtf"><img src="https://github.com/pablo-padua/pablo-padua/blob/master/steam.png" alt="steam"/></a>
   <a href="https://discord.gg/EJSwvtBdA6"><img src="https://github.com/pablo-padua/pablo-padua/blob/master/ds.png" alt="discord"/></a>
   <a href="https://www.linkedin.com/in/pablopadua/"> <img src="https://github.com/pablo-padua/pablo-padua/blob/master/linkedin.png" alt="linkedin"/></a>
@@ -55,13 +56,6 @@
 
 <div>
   
-  <p>
-  If you liked my profile or if you want to support me, you can:<br>
-  <a href="https://www.buymeacoffee.com/pablopadua"><img src="https://assets.libsyn.com/secure/show/132502/BuyCoffeeButton2.png" width="170"/></a>
-  
- ##
- 
-  </p>
    <p> 
     <img src="https://komarev.com/ghpvc/?username=pablo-padua&style=plastic&label=STALKERS:" alt="visitor badge" size="5"/>
   </p>
