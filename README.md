@@ -5,10 +5,10 @@
 <!-- ***:books: Software Engineering student at [Puc Minas](https://pucminas.br)***<br>-->
 ***:computer: Software Developer at [CRM Services](https://crmservices.com.br/)***
 <!-- ***:books: Computer Science student at [Thompson Rivers University](https://tru.ca/)***<br> -->
-
+<!--
 <p>
   <img src="https://github.com/pablo-padua/pablo-padua/blob/master/user_padua.gif">
-</p>
+</p>-->
 
 
 ## :memo: Some of my projects:
