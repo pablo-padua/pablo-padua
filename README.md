@@ -3,7 +3,7 @@
 ### Welcome to my :octocat: GitHub :octocat: Profile!
 
 <!-- ***:books: Software Engineering student at [Puc Minas](https://pucminas.br)***<br>-->
-***:computer: Software Developer at [CRM Services](https://crmservices.com.br/)***
+***:computer: Software Developer***
 <!-- ***:books: Computer Science student at [Thompson Rivers University](https://tru.ca/)***<br> -->
 <!--
 <p>
@@ -29,7 +29,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-padua&exclude_repo=NeuronioPerceptron&layout=compact)](https://github.com/pablo-padua/github-readme-stats)
 
-
+<!--
 ## :iphone: Reach me on:
 <p>
   <a href="https://open.spotify.com/user/wmtfcooperm"> <img src="https://github.com/pablo-padua/pablo-padua/blob/master/spotify.png" alt="spotify"/></a>
@@ -40,12 +40,15 @@
   <a href="mailto:pablopaduav@gmail.com"><img src="https://github.com/pablo-padua/pablo-padua/blob/master/gmail.png" alt="email"/></a>
   <a href="https://t.me/PaduaRR"><img src="https://i.ibb.co/V0GL89p/rsz-21telegram.png" alt="telegram"/></a>
 </p>
+-->
 
 ##
 
+<!--
 <div>
   <img src="https://camo.githubusercontent.com/6b24ca7563a732f4b02e4d4db85216e1308ae8e9d33e9eca447d5dd2cfc1b5ca/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f6170693f6267436f6c6f723d2532333231323532392674657874436f6c6f723d2532336666646464322671436f6c6f723d2532336639343134342661436f6c6f723d25323339306265366426626f72646572436f6c6f723d25323366396337346626636f6465436f6c6f723d253233663963373466"
 </div>
+-->
 
 <div>
   <img src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/life_balance.gif" alt="life_balance"  width="230"/>
