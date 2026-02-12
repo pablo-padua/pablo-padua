@@ -58,5 +58,5 @@ I develop production-grade **APIs, integrations, and web applications**, with fo
 
 ## Contact
 - Email: `padua@duck.com`
-- LinkedIn: `linkedin.com/in/pablopadua`
+- LinkedIn: [linkedin.com/in/pablo-padua](https://www.linkedin.com/in/pablo-padua)
 
