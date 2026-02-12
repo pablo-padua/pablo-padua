@@ -5,7 +5,9 @@
 
 I develop production-grade **APIs, integrations, and web applications**, with focus on reliability, clarity, and maintainability.
 
-<img src="https://komarev.com/ghpvc/?username=pablo-padua&style=for-the-badge&label=Visitor Count" />
+  <p> 
+    <img src="https://komarev.com/ghpvc/?username=pablo-padua&style=for-the-badge&label=Visitor Count" alt="" size="5"/>
+  </p>
 
 </div>
 
